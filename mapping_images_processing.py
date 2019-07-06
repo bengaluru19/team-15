@@ -1,5 +1,6 @@
-#This file is used to map the conditions given in the survey to the playground images to be selected
-#Output of the file is playground image names
+# This file is used to map the conditions given in the survey to the playground images to be selected
+# crsr is connection to the database
+# Output of the file is playground image names
 
 def bounds(area, budget, snake) :   
     if area>0 and area<5000 :
