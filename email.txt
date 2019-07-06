@@ -1,6 +1,6 @@
                                                               WELCOME to ANTHILL CREATION FOUNDATION
 
-Hello "$name",
+Hello ,
 
 We are happy about the interest you have shown to help us.Please click on the link below to fill the survey.
 
